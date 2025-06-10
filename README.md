@@ -6,4 +6,4 @@ This project intends to fine-tune a model in order to allow it to more easily an
 ## Usage
 ### Training:
 1. Clone the repository:
-   `git clone `
+   `git clone https://github.com/rmlignowski345/DreamBooth-LoRA-Fine-Tuning-for-Custom-Concept-Learning.git`

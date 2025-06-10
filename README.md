@@ -11,3 +11,8 @@ This project intends to fine-tune a model in order to allow it to more easily an
    `cd DreamBooth-LoRA-Fine-Tuning-for-Custom-Concept-Learning`
 3. Install the required packages:
    `pip install -r requirements.txt`
+
+### Foundation Model:
+The project utilized the [Link Text](https://huggingface.co/stabilityai/) implementation of stable-diffusion-3.5-medium for this project.
+### Foundation Base:
+The project utilized the [Link Text](https://dreambooth.github.io/) implementation.
